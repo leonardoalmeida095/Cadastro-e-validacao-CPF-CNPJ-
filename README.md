@@ -1,6 +1,4 @@
 # Cadastro-e-validacao-CPF-CNPJ
-Exercicio realizado durante o curso SQL Server DBA/BI COTI Prof Wallace.
-
 Criação da procedure "usp_cadastrarCliente" com os dados de um cliente
 
 A procedure realiza a leitura dos dados e remove as pontuações e hifens do campo DOC.
